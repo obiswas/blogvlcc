@@ -30,7 +30,7 @@
    
 
     <!-- Custom styles for this template -->
-	<link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
+	<link href="{{ asset('assets/style.css') }}" rel="stylesheet">
     
 
     <!-- Responsive styles for this template -->
